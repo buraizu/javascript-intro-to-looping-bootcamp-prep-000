@@ -19,3 +19,7 @@ function whileLoop (number) {
     }
   }
 }
+
+function doWhileLoop (array) {
+  
+}
